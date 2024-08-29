@@ -1,0 +1,33 @@
+
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+     
+   /* background: linear-gradient(to top,#f9858b, #ed335f 34% 89%);
+    background: linear-gradient(to bottom right, #ccecf1ec 0%, #0c6472ec 100%);*/
+    background: linear-gradient(to right, #f199dbb0 32%, #04c1e250 80%);
+  }
+  .carousel-inner img {
+      width: 200%;
+      height: 100%;
+    }
+  .domains{
+    margin: 20px;
+  }
+  .card-deck{
+    margin: 5px 15% 5px 15%;
+  }
+  .card-body{
+    padding: 10px;
+  }
+  .card-group{
+    margin: 2% ;
+  }
+  footer{
+    text-align: center;
+  }
+  
