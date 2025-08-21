@@ -23,16 +23,16 @@ To create a platform that can later be extended with dynamic features (e.g., eve
 
 ## Features
 
-Comprehensive Club Profiles: Each club has its own section with its name, description, activities, and contact information.
+Comprehensive Club Profiles
 
-Responsive Web Design: Works seamlessly on desktops, tablets, and smartphones.
+Responsive Web Design
 
-Minimalist & Clean UI: Focused on clarity, simplicity, and readability.
+Minimalist & Clean UI
 
-Ease of Maintenance: Can be easily updated with new clubs or events by modifying HTML files.
+Ease of Maintenance
 
 ## Technologies Used
 
-HTML5: For structuring the web pages and content.
+HTML5
 
-CSS3: For styling, layout management, and visual enhancements (including responsive design).
+CSS
